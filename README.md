@@ -1,5 +1,9 @@
 # Hotel Website using Azure App Service.
 
+
+### For verification, please visit the web-site. 
+  [https://githubwebsite.azurewebsites.net/](https://githubwebsite.azurewebsites.net/)
+
 ## Steps to be followed:-
 
 - I have created a new Azure Service on Microsoft Azure.
@@ -69,7 +73,5 @@
   
   <img src="https://github.com/mohitgovindwar/GithubEdu/blob/main/images/action.jpg">
 
-- For verification, please visit the web-site. 
-  [https://githubwebsite.azurewebsites.net/](https://githubwebsite.azurewebsites.net/)
 - Thus I have deployed the website created using HTML, CSS and JavaScript using azure app service. 
 
