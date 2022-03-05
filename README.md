@@ -3,8 +3,8 @@
 ## Steps to be followed:-
 
 - I have created a new Azure Service on Microsoft Azure.
-- Choosen Runtime stack as php 7.3 (Our application is just plain html+js+css though).
-- Choosen region “Southeast Asia” (or try some other if it fails you need start all over again)
+- Chosen Runtime stack as php 7.3 (My application is just plain html+js+css though).
+- Chosen region “Southeast Asia” (or try some other if it fails you need start all over again)
 - And then changed the “size” to Basic B1.
 - And then I clicked on "Review + Create" to create the Azure App Service.
 - Now, I entered the domain I have recently purchased from namecheap.com
